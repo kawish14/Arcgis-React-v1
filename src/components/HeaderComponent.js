@@ -142,7 +142,7 @@ selectLOSbyDateFun = (e) => {
         <div>
             <Navbar color="dark" dark expand="md">
                     <NavbarToggler onClick={this.toggleNav} />
-                    <NavbarBrand style={{color:'#1f91f3'}}>Transworld</NavbarBrand>
+                    <NavbarBrand style={{color:'#1f91f3'}}>GIS APP</NavbarBrand>
 
                    
                     <Collapse isOpen={this.state.isNavOpen} navbar>
